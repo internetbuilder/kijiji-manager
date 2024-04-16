@@ -13,7 +13,7 @@ hstspreload==2020.11.21
 httpcore==0.12.2
 httpx==0.16.1
 hyperframe==6.0.0
-idna==2.10
+idna==3.7
 immutables==0.14
 is-safe-url==1.0
 itsdangerous==1.1.0
